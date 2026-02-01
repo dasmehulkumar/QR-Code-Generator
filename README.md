@@ -1,4 +1,4 @@
-<h1 align="center">🚀 QR Code Generator – Node.js</h1>
+<h1 align="center">🚀 QR Code Generator</h1>
 
 <p align="center">
   <b>A modern, minimal, and easy-to-use QR Code Generator built with Node.js and Express.</b><br>
