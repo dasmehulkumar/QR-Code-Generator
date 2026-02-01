@@ -106,7 +106,6 @@ qr-code-generator/
 <pre>
 https://google.com
 https://github.com
-https://openai.com
 </pre>
 
 <hr>
